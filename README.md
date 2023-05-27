@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi, under construction 
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=TabW&show_icons=true&theme=tokyonight"/>
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=TabW&show_icons=true&theme=tokyonight"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TabW&layout=compact"/>
 <br>
